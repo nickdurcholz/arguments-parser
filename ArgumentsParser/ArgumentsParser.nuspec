@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<package>
+    <metadata>
+        <id>$id$</id>
+        <version>$version$</version>
+        <title>$title$</title>
+        <authors>nick.durcholz@gmail.com</authors>
+        <owners>nick.durcholz@gmail.com</owners>
+        <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/nickdurcholz/arguments-parser</projectUrl>
+        <description>Command line argument parser</description>
+    </metadata>
+</package>
